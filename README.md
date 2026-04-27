@@ -13,4 +13,6 @@
 git clone https://github.com/EphrataTech/climate-challenge-week0.git
 
 cd climate-challenge-week0
+  
+# this is for checking pull request
 
